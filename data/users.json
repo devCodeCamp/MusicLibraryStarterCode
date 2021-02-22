@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "email": "david@devcodecamp.com",
-    "password": "Pass1"
+    "email": "some@person.com",
+    "password": "Pass$1"
   }
 ]
